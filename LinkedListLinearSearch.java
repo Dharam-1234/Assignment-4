@@ -1,3 +1,5 @@
+// Write a java  program that implements linear search in a singly linked list.
+
 public class LinkedListLinearSearch {
 
     // Node class
@@ -80,7 +82,9 @@ public class LinkedListLinearSearch {
     }
 }
 
-
+// output:
+// 10 -> 20 -> 30 -> 40 -> 50 -> null
+// Element 30 found at position 2
 
 
 
